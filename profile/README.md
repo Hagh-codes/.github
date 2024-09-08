@@ -2,7 +2,7 @@
 
 <br>
 
-# Welcome to Orca developers Github!
+# Welcome to Hagh codes!
 
 We at Orca try to make a better world. Primarily for developers and secondly for all humans.
 <br>
