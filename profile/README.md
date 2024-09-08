@@ -3,7 +3,6 @@
 <br>
 
 # Welcome to Hagh codes!
-
-We at Orca try to make a better world. Primarily for developers and secondly for all humans.
+# به گیت هاب انتشارات حق ( حق کدز ) خوش آمدید!
 <br>
 You can also join our team. Just send us a message :)
